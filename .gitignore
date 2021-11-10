@@ -3,3 +3,4 @@ __pycache__/
 probability_distributions_lesson.ipynb
 viz.py
 env.py
+.DS_Store
